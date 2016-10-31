@@ -15,7 +15,7 @@
       'AddLayout', '-',
       'Link', 'Replace']];
 
-    var extraPlugins = '';
+    var extraPlugins = 'info-box';
     var removePlugins = '';
 
     editor = CKEDITOR.replace('editor', {
